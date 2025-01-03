@@ -47,5 +47,5 @@ pip install -r requirements.txt
 ```
 jupyter notebook
 ```
-2. Open the `EcommerceNNmodel.ipynb` file from the Jupyter interface
+2. Open the `Ecommerce_Sales_and_Rec` folder from the Jupyter interface and then the `EcommerceNNmodel.ipynb` file from there.
 3. Follow the instructions and cells in the notebook to execute the code.
